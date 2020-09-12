@@ -1,17 +1,12 @@
 # CTF中RSA的一些攻击思路
 
-> 通过原文https://bbs.pediy.com/thread-254252.htm项目收集的一些RSA的攻击脚本,并将其用python3重构,增加了例题
->
+> 本项目收集了一些RSA的攻击脚本,并将其中一部分用python3重构
 >
 > 参考文章:
 >
 > https://www.tr0y.wang/2017/11/06/CTFRSA/index.html
 >
 > http://inaz2.hatenablog.com/entry/2016/01/20/022936
-> 
-> 原仓库链接:
-> 
-> https://github.com/yifeng-lee/RSA-In-CTF
 
 ## 关于RSA算法
 
